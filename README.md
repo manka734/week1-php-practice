@@ -1,6 +1,6 @@
 PHP Basics
 
-This project covers basic PHP programming concepts for beginners.
+
 
 Topics Covered
 
