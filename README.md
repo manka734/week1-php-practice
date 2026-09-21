@@ -1,6 +1,6 @@
 PHP Basics
 
-
+This project covers basic PHP programming concepts for beginners.
 
 Topics Covered
 
@@ -48,6 +48,3 @@ If Else| Provides two choices
 If Elseif| Checks multiple conditions
 Switch| Checks different cases
 
-Author
-
-Abdirahman
